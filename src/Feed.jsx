@@ -5,7 +5,7 @@ export default function Feed() {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    const url = "https://brightfeed-server.onrender.com";
+    const url = "https://hackernewz.onrender.com";
     fetch(url)
       .then((response) => response.text())
       .then((xml) => {
