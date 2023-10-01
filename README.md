@@ -1,6 +1,7 @@
 ## This site is made for submission of the [Open Source Hackfest](https://open-source-hackfest.devpost.com/) by Major League Hacking (MLH).
 
 # HackerNewz - Cyber Security News at your fingertips
+
 ![hacker](https://github.com/NisooJadhav/HackerNewz/assets/68807845/0ea0ee55-859b-4dd3-a94a-fdc2c36a3882)
 
 Stay updated with the latest cyber security news from around the world with HackerNewz! This open-source project is a submission for the Open Source Hackfest by Major League Hacking (MLH) 🚀.
